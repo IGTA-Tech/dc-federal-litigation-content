@@ -1,0 +1,427 @@
+{
+  "project": "DC Federal Litigation PLLC Website",
+  "description": "Create comprehensive website content for DC Federal Litigation PLLC at dcfederallitigation.com to dominate DC federal court legal market",
+  "primary_differentiator": "DC Federal District Court admission - barrier to entry that competitors cannot clear",
+  "firm_name": "DC Federal Litigation PLLC",
+  "domain": "dcfederallitigation.com",
+  "pricing_display": "Starting at $X format",
+  "stories": [
+    {
+      "id": "story-001",
+      "title": "Create Homepage Content",
+      "description": "Write SEO-optimized homepage emphasizing DC federal court admission as differentiator",
+      "priority": 1,
+      "acceptance_criteria": [
+        "H1 contains 'DC Federal Court' and 'Litigation'",
+        "Hero section emphasizes federal court admission as differentiator",
+        "5 key service area icons displayed",
+        "Primary CTA: 'Schedule Federal Court Consultation'",
+        "Trust signals: Court admissions listed",
+        "Meta title 55-60 characters",
+        "Meta description 150-160 characters",
+        "Content is 800-1000 words",
+        "Output saved to homepage-content.md"
+      ],
+      "passes": false
+    },
+    {
+      "id": "story-002",
+      "title": "Create DC Pro Hac Vice & Local Counsel Page (BEAT HASKELL)",
+      "description": "Write comprehensive pro hac vice page to outrank charleshaskell.com (currently only 571 words)",
+      "priority": 2,
+      "acceptance_criteria": [
+        "H1 contains 'Pro Hac Vice' and 'DC'",
+        "What is Pro Hac Vice section included",
+        "DC District Court requirements section",
+        "DC Superior Court requirements section",
+        "DC Court of Appeals requirements section",
+        "Court of Federal Claims pro hac vice section",
+        "Step-by-step admission process (7+ steps)",
+        "Our services list (8+ services)",
+        "Flat fee pricing section with 'Starting at' format",
+        "FAQ section with 10+ questions",
+        "Why choose us over competitors section",
+        "Local rules compliance section",
+        "ECF filing assistance mentioned",
+        "Content is 2500+ words (vs Haskell's 571)",
+        "Output saved to dc-pro-hac-vice-content.md"
+      ],
+      "passes": false
+    },
+    {
+      "id": "story-003",
+      "title": "Create Court of Federal Claims Litigation Page",
+      "description": "Write comprehensive COFC litigation page",
+      "priority": 3,
+      "acceptance_criteria": [
+        "H1 contains 'Court of Federal Claims'",
+        "What is COFC section",
+        "Types of cases handled",
+        "COFC jurisdiction explained ($10K+ threshold)",
+        "Bid protests at COFC section",
+        "Contract disputes section",
+        "Tucker Act claims section",
+        "COFC vs GAO comparison table",
+        "Process and timeline section",
+        "Federal Circuit appeals section",
+        "FAQ section with 8+ questions",
+        "Content is 2500+ words",
+        "Output saved to cofc-litigation-content.md"
+      ],
+      "passes": false
+    },
+    {
+      "id": "story-004",
+      "title": "Create USCIS Mandamus Lawsuits Page",
+      "description": "Write comprehensive USCIS mandamus page to compete with wasdenbanias.com",
+      "priority": 4,
+      "acceptance_criteria": [
+        "H1 contains 'USCIS Mandamus'",
+        "What is mandamus explained",
+        "When to file (how long to wait)",
+        "Types of delayed cases (I-485, N-400, EAD, AP, etc.)",
+        "Unreasonable delay standard explained",
+        "DC District Court as favorable venue",
+        "What happens after filing",
+        "Success factors section",
+        "Timeline and costs section",
+        "APA challenges vs mandamus comparison",
+        "FAQ section with 10+ questions",
+        "Content is 2500+ words",
+        "Output saved to uscis-mandamus-content.md"
+      ],
+      "passes": false
+    },
+    {
+      "id": "story-005",
+      "title": "Create EPA & Environmental Litigation Page",
+      "description": "Write EPA challenges and environmental litigation page",
+      "priority": 5,
+      "acceptance_criteria": [
+        "H1 contains 'EPA' and 'Litigation'",
+        "DC Circuit exclusive jurisdiction explained",
+        "Types of EPA actions that can be challenged",
+        "Clean Air Act section",
+        "Clean Water Act section",
+        "CERCLA/Superfund section",
+        "NEPA challenges section",
+        "EPA permit appeals section",
+        "EPA enforcement defense section",
+        "Process and timeline",
+        "FAQ section with 5+ questions",
+        "Content is 2000+ words",
+        "Output saved to epa-litigation-content.md"
+      ],
+      "passes": false
+    },
+    {
+      "id": "story-006",
+      "title": "Create Tucker Act Claims Page",
+      "description": "Write Tucker Act claims page for suing federal government for money",
+      "priority": 6,
+      "acceptance_criteria": [
+        "H1 contains 'Tucker Act'",
+        "What the Tucker Act covers",
+        "Little Tucker Act vs Tucker Act ($10K threshold)",
+        "Types of claims (contract, taking, statutory)",
+        "COFC jurisdiction explained",
+        "Military pay disputes section",
+        "Tax refund claims section",
+        "Statute of limitations",
+        "Process and timeline",
+        "FAQ section with 5+ questions",
+        "Content is 2000+ words",
+        "Output saved to tucker-act-content.md"
+      ],
+      "passes": false
+    },
+    {
+      "id": "story-007",
+      "title": "Create Government Contracts Hub Page",
+      "description": "Write government contracts hub page",
+      "priority": 7,
+      "acceptance_criteria": [
+        "H1 contains 'Government Contracts'",
+        "Practice overview",
+        "Federal court litigation capability emphasized",
+        "Types of contracts explained",
+        "FAR/DFARS compliance mentioned",
+        "Links to sub-pages (bid protests, SBA, debarment)",
+        "Industries served",
+        "FAQ section",
+        "Content is 2000+ words",
+        "Output saved to government-contracts-hub-content.md"
+      ],
+      "passes": false
+    },
+    {
+      "id": "story-008",
+      "title": "Create Bid Protests Page (GAO & COFC)",
+      "description": "Write bid protests page covering both GAO and COFC forums",
+      "priority": 8,
+      "acceptance_criteria": [
+        "H1 contains 'Bid Protest'",
+        "GAO protests explained (process, timeline, CICA stay)",
+        "COFC protests explained (process, advantages)",
+        "GAO vs COFC comparison table",
+        "When to choose each forum",
+        "Protest grounds listed",
+        "Automatic stay rules",
+        "Protective orders",
+        "Corrective action",
+        "FAQ section with 5+ questions",
+        "Content is 2000+ words",
+        "Output saved to bid-protests-content.md"
+      ],
+      "passes": false
+    },
+    {
+      "id": "story-009",
+      "title": "Create SBA Certifications & Approvals Page",
+      "description": "Write SBA certifications page covering 8(a), HUBZone, SDVOSB, WOSB",
+      "priority": 9,
+      "acceptance_criteria": [
+        "H1 contains 'SBA Certification'",
+        "8(a) Business Development Program section",
+        "HUBZone certification section",
+        "SDVOSB/VOSB verification section",
+        "WOSB certification section",
+        "Application process for each",
+        "Denial appeals section",
+        "Size protests section",
+        "Maintaining certification",
+        "FAQ section with 5+ questions",
+        "Content is 2000+ words",
+        "Output saved to sba-certifications-content.md"
+      ],
+      "passes": false
+    },
+    {
+      "id": "story-010",
+      "title": "Create Suspension & Debarment Defense Page",
+      "description": "Write debarment defense page",
+      "priority": 10,
+      "acceptance_criteria": [
+        "H1 contains 'Debarment' or 'Suspension'",
+        "Suspension vs debarment explained",
+        "Grounds for debarment listed",
+        "The administrative process",
+        "Show cause responses",
+        "Administrative agreements",
+        "Mitigating factors",
+        "Federal court challenges",
+        "Reinstatement",
+        "FAQ section",
+        "Content is 1800+ words",
+        "Output saved to debarment-defense-content.md"
+      ],
+      "passes": false
+    },
+    {
+      "id": "story-011",
+      "title": "Create FOIA Requests & Litigation Page",
+      "description": "Write FOIA requests and litigation page",
+      "priority": 11,
+      "acceptance_criteria": [
+        "H1 contains 'FOIA'",
+        "What is FOIA section",
+        "FOIA request drafting assistance",
+        "FOIA exemptions explained",
+        "Administrative appeals section",
+        "Federal court FOIA litigation section",
+        "Fee waivers and expedited processing",
+        "Vaughn index explained",
+        "Attorney's fees recovery",
+        "Privacy Act requests section",
+        "FAQ section with 5+ questions",
+        "Content is 2000+ words",
+        "Output saved to foia-litigation-content.md"
+      ],
+      "passes": false
+    },
+    {
+      "id": "story-012",
+      "title": "Create Federal Court Ad Hoc Counsel Page",
+      "description": "Write ad hoc counsel services page",
+      "priority": 12,
+      "acceptance_criteria": [
+        "H1 contains 'Ad Hoc Counsel'",
+        "What is ad hoc counsel",
+        "Limited scope representation",
+        "Specific appearance counsel",
+        "Oral argument coverage",
+        "Emergency federal court filings",
+        "Coordination with lead counsel",
+        "Pricing section",
+        "FAQ section",
+        "Content is 1500+ words",
+        "Output saved to ad-hoc-counsel-content.md"
+      ],
+      "passes": false
+    },
+    {
+      "id": "story-013",
+      "title": "Create Immigration Visa Denial Appeals Page",
+      "description": "Write visa denial federal court appeals page",
+      "priority": 13,
+      "acceptance_criteria": [
+        "H1 contains 'Visa Denial' and 'Federal Court'",
+        "When you can appeal to federal court",
+        "APA challenges explained",
+        "Arbitrary and capricious standard",
+        "Types of visa denials covered (H-1B, L-1, EB-5, NIW)",
+        "Naturalization denial lawsuits section",
+        "Process and timeline",
+        "FAQ section",
+        "Content is 1800+ words",
+        "Output saved to visa-denial-appeals-content.md"
+      ],
+      "passes": false
+    },
+    {
+      "id": "story-014",
+      "title": "Create About Page",
+      "description": "Write about page for DC Federal Litigation PLLC",
+      "priority": 14,
+      "acceptance_criteria": [
+        "H1 contains firm name or 'About'",
+        "Firm mission statement",
+        "Federal court admissions listed prominently",
+        "Practice areas overview",
+        "Why federal court admission matters",
+        "Geographic reach (nationwide federal)",
+        "Content is 800-1000 words",
+        "Output saved to about-content.md"
+      ],
+      "passes": false
+    },
+    {
+      "id": "story-015",
+      "title": "Create Contact Page",
+      "description": "Write contact page with intake qualification",
+      "priority": 15,
+      "acceptance_criteria": [
+        "H1 contains 'Contact'",
+        "Contact form fields suggested",
+        "Phone number placeholder",
+        "Email placeholder",
+        "Office location (DC)",
+        "What to expect in consultation",
+        "Intake qualification questions",
+        "Content is 400-600 words",
+        "Output saved to contact-content.md"
+      ],
+      "passes": false
+    },
+    {
+      "id": "story-016",
+      "title": "Create Blog: DC Pro Hac Vice Requirements Guide",
+      "description": "Write comprehensive DC pro hac vice requirements blog post",
+      "priority": 16,
+      "acceptance_criteria": [
+        "Title contains 'DC Pro Hac Vice' and '2026'",
+        "Step-by-step requirements for each court",
+        "Fees and costs breakdown",
+        "Common mistakes to avoid",
+        "Local rules summary",
+        "FAQ section",
+        "CTA to contact for sponsorship",
+        "Content is 2000+ words",
+        "Output saved to blog-dc-pro-hac-vice-guide.md"
+      ],
+      "passes": false
+    },
+    {
+      "id": "story-017",
+      "title": "Create Blog: How to Sue USCIS for Delays (Mandamus Guide)",
+      "description": "Write comprehensive USCIS mandamus guide blog post",
+      "priority": 17,
+      "acceptance_criteria": [
+        "Title contains 'Sue USCIS' and 'Mandamus'",
+        "When mandamus is appropriate",
+        "How long to wait before suing",
+        "Step-by-step lawsuit process",
+        "What to expect after filing",
+        "Success factors",
+        "FAQ section",
+        "CTA to contact for consultation",
+        "Content is 2500+ words",
+        "Output saved to blog-uscis-mandamus-guide.md"
+      ],
+      "passes": false
+    },
+    {
+      "id": "story-018",
+      "title": "Create Blog: COFC vs GAO Bid Protests Comparison",
+      "description": "Write COFC vs GAO comparison blog post",
+      "priority": 18,
+      "acceptance_criteria": [
+        "Title contains 'COFC vs GAO' and 'Bid Protest'",
+        "Detailed comparison table",
+        "Pros and cons of each forum",
+        "When to choose COFC",
+        "When to choose GAO",
+        "Timeline differences",
+        "Discovery differences",
+        "FAQ section",
+        "Content is 2000+ words",
+        "Output saved to blog-cofc-vs-gao-protests.md"
+      ],
+      "passes": false
+    },
+    {
+      "id": "story-019",
+      "title": "Create Blog: Tucker Act Claims Explained",
+      "description": "Write Tucker Act explainer blog post",
+      "priority": 19,
+      "acceptance_criteria": [
+        "Title contains 'Tucker Act' and 'Explained'",
+        "What the Tucker Act is",
+        "Types of claims covered",
+        "Little Tucker Act threshold",
+        "How to file a claim",
+        "Statute of limitations",
+        "FAQ section",
+        "Content is 2000+ words",
+        "Output saved to blog-tucker-act-explained.md"
+      ],
+      "passes": false
+    },
+    {
+      "id": "story-020",
+      "title": "Create Blog: 8(a) Certification Denied? Your Options",
+      "description": "Write 8(a) denial appeals blog post",
+      "priority": 20,
+      "acceptance_criteria": [
+        "Title contains '8(a) Certification Denied'",
+        "Common denial reasons",
+        "Administrative appeal process",
+        "SBA OHA appeals",
+        "Federal court options",
+        "Tips for reapplication",
+        "FAQ section",
+        "Content is 1800+ words",
+        "Output saved to blog-8a-certification-denied.md"
+      ],
+      "passes": false
+    },
+    {
+      "id": "story-021",
+      "title": "Create Blog: FOIA Litigation 101",
+      "description": "Write FOIA litigation guide blog post",
+      "priority": 21,
+      "acceptance_criteria": [
+        "Title contains 'FOIA Litigation'",
+        "When to sue under FOIA",
+        "Exhausting administrative remedies",
+        "Constructive denial (no response)",
+        "Challenging exemptions",
+        "Attorney's fees",
+        "FAQ section",
+        "Content is 1800+ words",
+        "Output saved to blog-foia-litigation-101.md"
+      ],
+      "passes": false
+    }
+  ]
+}
